@@ -1,6 +1,5 @@
-Hello, I'm @Othimar. I really like compiled langages. I focus on algorithms and performances.
-Sometimes, I also focus on web development.
-<!---
-othimar/othimar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Hello, I'm @Othimar
+- ✌ Currently learning CSS and Javascript
+- 📖 Planing to build Educative Apps
+- 🦀 Also planing to learn Rust.
+- 🐦 Join me on twitter: [https://twitter.com/OthimarPele](@othimarPele)
